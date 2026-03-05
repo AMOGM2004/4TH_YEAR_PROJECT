@@ -1,0 +1,112 @@
+{
+  "appTitle": "ಸ್ಮಾರ್ಟ್ ಬೆಳೆ ಸಲಹೆಗಾರ",
+  "logout": "ಲಾಗ್ ಔಟ್",
+  "farmerProfile": "ರೈತರ ಪ್ರೊಫೈಲ್",
+  "premiumUser": "ಪ್ರೀಮಿಯಂ ಬಳಕೆದಾರ",
+  "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "cropRecommendation": "ಬೆಳೆ ಶಿಫಾರಸು",
+  "fertilizerCalculator": "ಎರೆ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "diseaseDetection": "ರೋಗ ಗುರುತಿಸುವಿಕೆ",
+  "weather": "ಹವಾಮಾನ",
+  "yieldPrediction": "ಹುಟ್ಟುವಳಿ ಭವಿಷ್ಯ",
+  "multiLanguage": "ಬಹುಭಾಷೆ",
+  "welcome": "ಸ್ಮಾರ್ಟ್ ಬೆಳೆ ಸಲಹೆಗಾರಕ್ಕೆ ಸುಸ್ವಾಗತ",
+  "soilParameters": "ಮಣ್ಣಿನ ಮಾನದಂಡಗಳು",
+  "getRecommendation": "AI ಶಿಫಾರಸು ಪಡೆಯಿರಿ",
+  "selectLanguage": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+  "aiRecommendation": "AI ಶಿಫಾರಸು",
+  "awaitingAnalysis": "ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ",
+  "optimalCrop": "ಉತ್ತಮ ಬೆಳೆ",
+  "confidenceScore": "ನಂಬಿಕೆ ಸ್ಕೋರ್",
+
+
+ "smartCropAdvisor":  "ಸ್ಮಾರ್ಟ್ ಬೆಳೆ ಸಲಹೆಗಾರ",
+  "aiPoweredPrecisionAgriculture": "AI ಚಾಲಿತ ನಿಖರ ಕೃಷಿ",
+
+  "soil":" ಮಣ್ಣಿನ ಹಾಗೂ ಹವಾಮಾನದ ಮಾನದಂಡಗಳು  / ನಿಯತಾಂಕಗಳು",
+  "adjust" : " ನಿಮ್ಮ ಜಮೀನಿನ ಪರಿಸ್ಥಿತಿಗಳಿಗೆ ಅನುಗುಣವಾಗಿ  ಸ್ಲೈಡರ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ",
+
+  "nitrogen" : "ಸಾರಜನಕ (N)",
+  "N": " (N)",
+  "K" : " (K)",
+  "P" : " (P)",
+
+  "phosphorus" : "ರಂಜಕ (P)",
+  "potassium" : "ಪೊಟ್ಯಾಸಿಯಮ್ (K)",
+  " pH Level " : "pH ಮಟ್ಟ",
+"temperature" :" ತಾಪಮಾನ",
+  "rainfall" : " ಮಳೆ",
+  "humidity" : " ಆರ್ದ್ರತೆ  / ತೇವಾಂಶ ",
+  "phLevel" : "pH ಮಟ್ಟ",
+  "kg/ha" : " ಕೆಜಿ/ಹೆಕ್ಟೇರ್",
+
+
+
+   "analyzing": "ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ...",
+  "getAIRecommendation": "AI ಶಿಫಾರಸು ಪಡೆಯಿರಿ",
+  "aiRecommendation": "AI ಶಿಫಾರಸು",
+
+  "awaitingAnalysis" : "ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ",
+  "adjustParameters" : "ಸೂಕ್ತ ಬೆಳೆ ಶಿಫಾರಸುಗಳಿಗಾಗಿ ಮಾನದಂಡಗಳನ್ನು /  ನಿಯತಾಂಕಗಳನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು AI ಶಿಫಾರಸು ಪಡೆಯಿರಿ  ಕ್ಲಿಕ್ ಮಾಡಿ",
+"tip" : "ಸಲಹೆ:",
+"useRealisticValues" : " ನಿಖರವಾದ ಶಿಫಾರಸುಗಳಿಗಾಗಿ ವಾಸ್ತವಿಕ ಮೌಲ್ಯಗಳನ್ನು ಬಳಸಿ.",
+"confidenceScore" : "ನಂಬಿಕೆ ಸ್ಕೋರ್",
+"basedon7parameters" : "7 ಮಾನದಂಡಗಳ ವಿಶ್ಲೇಷಣೆ ಆಧರಿತ",
+"accuracy" : "ನಿಖರತೆ",
+
+
+"fertilizerCalculator" : "ರಸಗೊಬ್ಬರ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+"soil&cropDetails" : "ಬೆಳೆ ಮತ್ತು ಮಣ್ಣಿನ ವಿವರಗಳು",
+"calculateFertilizer" : "ಮಣ್ಣಿನ ಪೋಷಕಾಂಶ ಕೊರತೆ ಆಧರಿಸಿ ರಸಗೊಬ್ಬರ ಅಗತ್ಯಗಳನ್ನು ಲೆಕ್ಕ ಹಾಕಿ",
+"selectCrop" : "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ",
+"crop" : "ಬೆಳೆ",
+"farmArea" : "ಕೃಷಿ ಭೂಮಿ ಪ್ರದೇಶ",
+"acre":" ಎಕರೆ  ",
+"calculating" : "ಲೆಕ್ಕ ಹಾಕಲಾಗುತ್ತಿದೆ...",
+"calculateFertilizerRequirements" : "ರಸಗೊಬ್ಬರ ಅಗತ್ಯಗಳನ್ನು ಲೆಕ್ಕ ಹಾಕಿ",
+"fertilizerRecommendations" : "ರಸಗೊಬ್ಬರ ಶಿಫಾರಸುಗಳು",
+"enterCropDetails" : "ಬೆಳೆ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ ಮತ್ತು ರಸಗೊಬ್ಬರ ಶಿಫಾರಸುಗಳನ್ನು ನೋಡಲು ಲೆಕ್ಕ ಹಾಕಿ ಕ್ಲಿಕ್ ಮಾಡಿ",
+"nutrientDeficiency" : "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+"kg/acre" : "ಕೆಜಿ/ಎಕರೆ ",
+"kg" : "ಕೆಜಿ",
+"cost" : "ಖರ್ಚು",
+"quantity" : "ಪ್ರಮಾಣ",
+"fertilizerCost" : "ರಸಗೊಬ್ಬರ ಖರ್ಚು",
+"fertilizer" : "ರಸಗೊಬ್ಬರ",
+"totalCost" : "ಒಟ್ಟು ಖರ್ಚು",
+
+
+"urea" : "ಯೂರಿಯಾ", 
+
+
+"rice": "ಅಕ್ಕಿ",
+  "maize": "ಮೊತ್ತೆ ಹಕ್ಕಿ / ಜೋಳ",
+  "chickpea": "ಕಡಲೆ",
+  "kidneybeans": "ರಜ್ಮಾ / ಕಿಡ್ನಿ ಬೀನ್ಸ್",
+  "pigeonbeans": "ತೊಗರಿ ಬೀನ್ಸ್",
+  "mothbean": "ಮಠ್ ಬೀನ್ಸ್",
+  "mungbean": "ಹಸಿರು ಕಡಲೆ",
+  "blackgram": "ಉಪ್ಪಿ ಕಡಲೆ / ಉಪ್ಪಿನಕಡಲೆ",
+  "lentil": "ತೂವರು",
+  "pomegranate": "ದಾಳಿಂಬೆ",
+  "banana": "ಬಾಳೆಹಣ್ಣು",
+  "mango": "ಮಾವು",
+  "grapes": "ದ್ರಾಕ್ಷಿ",
+  "watermelon": "ತರಬೂಜಿ",
+  "muskmelon": "ಖರಬೂಜು",
+  "apple": "ಸೇಬು",
+  "orange": "ಸೇತ್ರಂಗಿ / ಕಿತ್ತಳೆ",
+  "papaya": "ಪಪ್ಪಾಯಿ",
+  "coconut": "ತೆಂಗಿನಕಾಯಿ",
+  "cotton": "ಪತ್ತೆ",
+  "jute": "ಜ್ಯೂಟ್",
+  "coffee": "ಕಾಫಿ"
+
+
+
+
+
+
+
+
+}

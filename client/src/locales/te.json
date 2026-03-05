@@ -1,0 +1,21 @@
+{
+  "appTitle": "స్మార్ట్ క్రాప్ ఆడ్వైజర్",
+  "logout": "లాగ్ ఔట్",
+  "farmerProfile": "రైతు ప్రొఫైల్",
+  "premiumUser": "ప్రీమియం యూజర్",
+  "dashboard": "డాష్బోర్డ్",
+  "cropRecommendation": "పంట సిఫారసు",
+  "fertilizerCalculator": "ఎరువు కాలిక్యులేటర్",
+  "diseaseDetection": "రోగం గుర్తింపు",
+  "weather": "వాతావరణం",
+  "yieldPrediction": "పంట దిగుబడి అంచనా",
+  "multiLanguage": "బహుభాషా",
+  "welcome": "స్మార్ట్ క్రాప్ ఆడ్వైజర్ కు స్వాగతం",
+  "soilParameters": "నేల పారామితులు",
+  "getRecommendation": "AI సిఫారసును పొందండి",
+  "selectLanguage": "భాషను ఎంచుకోండి",
+  "aiRecommendation": "AI సిఫారసు",
+  "awaitingAnalysis": "విశ్లేషణ కోసం వేచి ఉంది",
+  "optimalCrop": "ఉత్తమమైన పంట",
+  "confidenceScore": "నమ్మకం స్కోరు"
+}

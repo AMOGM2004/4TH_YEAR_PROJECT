@@ -1,0 +1,58 @@
+.dashboard-container {
+  padding: 20px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 100vh;
+}
+
+.header-card {
+  background: linear-gradient(90deg, #2E7D32 0%, #4CAF50 100%);
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(46, 125, 50, 0.2);
+}
+
+.param-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* .param-card:hover {
+  transform: translateY(-4px);
+} */
+
+.input-slider {
+  margin-top: 8px;
+}
+
+.slider-track {
+  height: 6px;
+  border-radius: 3px;
+}
+
+.analyze-btn {
+  background: linear-gradient(90deg, #2E7D32 0%, #4CAF50 100%);
+  color: white;
+  padding: 12px 30px;
+  border-radius: 8px;
+  font-weight: 600;
+  /* transition: all 0.3s; */
+  text-transform: none;
+}
+
+.analyze-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(76, 175, 80, 0.3);
+}
+
+/* Responsive fixes */
+@media (max-width: 900px) {
+  .dashboard-container {
+    padding: 10px;
+  }
+  
+  .analyze-btn {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+}
